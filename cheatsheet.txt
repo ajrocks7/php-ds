@@ -1,0 +1,5 @@
+Quick Comparison (Easy to remember)
+Structure	 You work on:	        Use for:
+Stack	      Top only	         Undo / Backtracking / Nested parsing
+Deque	      Both ends	         Logs, sliding windows, history buffers
+Vector	      Any index	         Lists, numeric data, analytics
